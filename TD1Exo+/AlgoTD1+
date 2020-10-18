@@ -1,0 +1,12 @@
+Entrée: aucune
+Sortie: aucune
+Début
+Soit A, B,C et TEMP des entiers
+A prend la valeur 1
+B prend la valeur 2 
+C prend la valeur 3
+TEMP prend la valeur A
+A prend la valeur C
+C prend la valeur B
+B prend la valeur TEMP
+Fin
