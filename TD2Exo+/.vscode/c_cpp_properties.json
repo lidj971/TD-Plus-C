@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\MOI\\OneDrive\\Documents\\MinGW\bin\\"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "gnu17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}",
+            "compilerPath": "C:\\Users\\MOI\\OneDrive\\Documents\\MinGW\\bin\\gcc.exe"
+        }
+    ],
+    "version": 4
+}

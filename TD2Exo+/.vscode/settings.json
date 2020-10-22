@@ -1,0 +1,4 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.default.includePath":["path1","path2"]
+}    

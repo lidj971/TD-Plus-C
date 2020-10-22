@@ -1,0 +1,7 @@
+Entree: longueur du rectangle,largeur du rectangle
+Sortie: aucune
+Soit P,La et Lo des nombres decimaux
+La prend la valeur de la largeur du rectangle
+Lo prend la valeur de la longueur du rectangle
+P prend la valeur (La + Lo)*2
+Fin
