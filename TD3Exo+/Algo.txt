@@ -1,0 +1,13 @@
+Entrée: aucune
+Sortie: aucune
+COUVERT prend la valeur 1
+ENSOLEILLÉ prend la valeur 2
+PLUVIEUX prend la valeur 3
+Soit temps un entier 
+si temps prend la valeur COUVERT
+Afficher Couvert
+si temps prend la valeur ENSOLEILLÉ
+Afficher Ensoleillé
+si temps prend la valeur PLUVIEUX
+Afficher Pluvieux
+Fin

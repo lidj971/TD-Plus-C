@@ -1,0 +1,14 @@
+Entrer: Nombre d'entiers de la serie,valeurs de la serie
+Sortie: Aucune
+
+
+Soit val, résultat, taille et i des entiers
+Afficher la Question "Combien d'entiers composent la série"
+Affecter a taille la valeur entreé par l'utilisateur
+i est initialisée a 0 Tant que i < taille 
+Afficher "Entrez un entier!"
+Affecter a val la valeur entré par l'utilisateur
+Ajouter a résultat la valeur val
+Incrementer i
+Afficher résultat
+Fin
