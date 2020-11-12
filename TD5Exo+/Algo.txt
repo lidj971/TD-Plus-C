@@ -1,0 +1,12 @@
+Entree: Entier naturel
+Sortie: Aucune
+
+Demander a l'utilisateur d'entre un entier naturel
+Soit A prend la valeur de cet entier
+Soit B prend la valeur 1 
+Soit i prend la valeur 1
+Tant que i < B
+Ont multiplie A par i + 1
+Ont incremente i
+Afficher A
+Fin
