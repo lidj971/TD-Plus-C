@@ -1,0 +1,12 @@
+Entrée: aucune
+Sortie: aucune
+Soit x un entier quelconque 
+Soit A un tableaux d'entiers d'entier de x cases avec des valeurs quelconques
+Soit i un entier initialisé a 0
+Soit y un entier initialisé a 1
+Tant que i < x 
+Incrementer i 
+Multiplier y par la valeur de la case numero i de A
+Lorsque i >= x
+Afficher y
+Fin
